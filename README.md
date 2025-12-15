@@ -1,1 +1,6 @@
 CardioShieldAI is a heart attack prediction website built using based on Aritficial Intelligence principles.This is developed by training a dataset as a model which would predict the heart attack risk as vlue eloborate it using different grpahs and by providing necessary recommendations to  reduce the risk.Note!!! the dataset first should trained using spyder application via Android Nvagator .You should download and import necessary libraries to run this application
+Technologies used: 
+ - Python (data processing & ML model)
+- Streamlit (web interface)
+- Scikit-learn / Pandas / NumPy (machine learning & data handling)
+- Git & GitHub (version control and collaboration)
